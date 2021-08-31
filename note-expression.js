@@ -5,7 +5,9 @@
 // @grant       none
 // @version     1.0
 // @run-at      document-start
-// @author      -
+// @author      MathEnthusiast314
+// @downloadURL https://github.com/MathEnthusiast314/Desmos-Expression-Adder/edit/main/note-expression.js
+// @updateURL   https://github.com/MathEnthusiast314/Desmos-Expression-Adder/edit/main/note-expression.js
 // ==/UserScript==
 
 var tid = setInterval(mycode, 500);
