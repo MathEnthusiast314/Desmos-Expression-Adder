@@ -13,14 +13,14 @@
 
 var tid = setInterval(mycode, 500);
 function mycode() {
-var state = Calc.getState()
+var state = window.Calc.getState()
 state.expressions.list.forEach(a=>{
 if (a.text){
 if (a.text.substring(0,5)=="latex"){
   var a2 = state.expressions.list[-1+Number((a.text.substring(5,a.text.indexOf("\n"))))];
   a2.latex = a.text.substring(a.text.indexOf("\n")+1,a.text.length)
 }
-Calc.setExpression(a2)
+window.Calc.setExpression(a2)
 }})
 }
 /*
