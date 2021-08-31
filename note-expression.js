@@ -6,6 +6,7 @@
 // @version     1.0
 // @run-at      document-start
 // @author      MathEnthusiast314
+// @discription To add expressions in desmos directly through "notes"
 // @downloadURL https://github.com/MathEnthusiast314/Desmos-Expression-Adder/raw/note-expression.js
 // @updateURL   https://github.com/MathEnthusiast314/Desmos-Expression-Adder/raw/note-expression.js
 // ==/UserScript==
