@@ -7,8 +7,8 @@
 // @run-at      document-start
 // @author      MathEnthusiast314
 // @description To add expressions in desmos directly through "notes"
-// @downloadURL https://github.com/MathEnthusiast314/Desmos-Expression-Adder/raw/note-expression.js
-// @updateURL   https://github.com/MathEnthusiast314/Desmos-Expression-Adder/raw/note-expression.js
+// @downloadURL https://github.com/MathEnthusiast314/Desmos-Expression-Adder/raw/note-expression.user.js
+// @updateURL   https://github.com/MathEnthusiast314/Desmos-Expression-Adder/raw/note-expression.user.js
 // ==/UserScript==
 
 var tid = setInterval(mycode, 500);
